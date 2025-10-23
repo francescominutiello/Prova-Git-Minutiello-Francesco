@@ -1,1 +1,2 @@
 ciao
+Git è un programma che serve per tenere traccia delle modifiche che fai ai tuoi file e ti aiuta a non perdere il lavoro e a collaborare con altre persone senza confusione.
